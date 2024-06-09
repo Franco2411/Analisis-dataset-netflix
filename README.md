@@ -1,12 +1,12 @@
 # Analisis-dataset-netflix
-Proyecto de analisis de datos sobre el dataset de Netflix.
-## Descripción
-En este proyecto realicé un análisis superficial sobre un dataset de Netflix descargado desde Kaggle con el fin de afianzar los conocimientos adquiridos sobre Data Analysis.<br>
-Para realizarlo utilicé las siguiente librerias:
+Data Analysis Project on the Netflix Dataset
+## Description
+In this project, I conducted a superficial analysis on a Netflix dataset downloaded from Kaggle to reinforce the knowledge acquired in Data Analysis.
+To carry out this project, I used the following libraries:
 * Pandas.
 * NumPy.
 * Matplotlib.
 * Seaborn.
-* SciPy
-
-En el proyecto se realizó en primera instancia una limpieza de datos con eliminación de nulos. Luego se responden preguntas varias con utilización de gráficas y estadística básica.
+* SciPy.
+  
+Initially, the project involved data cleaning with the removal of null values. Then, various questions were answered using graphs and basic statistics.
